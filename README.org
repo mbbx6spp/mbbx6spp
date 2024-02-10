@@ -3,11 +3,12 @@
 Hi, I am =mbbx6spp= on GitHub.
 
 I specialize in growing high-performance small software engineering
-teams and migrating hard-to-maintain legacy systems in to continuously
+teams and turning hard-to-maintain legacy systems into continuously
 delivered maintainable software.
 
 I love well-typed functional programming to build out infrastructure
 and system configuration (Nix/NixOS), backend services (Haskell, Scala),
 and frontend applications (PureScript).
 
-In my spare time, I read about economics, psychology, and abstract algebra.
+In my spare time, I read about economics, derivatives trading, psychology, 
+and abstract algebra.
