@@ -7,7 +7,7 @@ teams and migrating hard-to-maintain legacy systems in to continuously
 delivered maintainable software.
 
 I love well-typed functional programming to build out infrastructure
-and system configuration (Nix/NixOS), backend services (Haskell), and
-frontend applications (PureScript).
+and system configuration (Nix/NixOS), backend services (Haskell, Scala),
+and frontend applications (PureScript).
 
 In my spare time, I read about economics, psychology, and abstract algebra.
