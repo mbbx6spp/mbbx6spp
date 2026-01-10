@@ -1,9 +1,7 @@
-#+TITLE: Post-postmodern software engineer & engineering leader
+#+TITLE: Post-postmodern indie developer
 
 Hi, I am =mbbx6spp= on GitHub.
 
-I specialize in leading, creating, growing, and mentoring high-performance small software engineering teams and turning hard-to-maintain legacy systems into continuously delivered maintainable software.
-
-I try to use well-typed functional programming to build out infrastructure and system configuration (Nix/NixOS), backend services (Haskell, Scala, TypeScript with Effect), and frontend applications (PureScript).
+I prefer to use well-typed functional programming to build out infrastructure, system configuration (Nix/NixOS), backend services (Haskell, Scala, F#), plus web and native user interfaces and frontends.
 
 In my spare time, I read about economics, derivatives trading, psychology, and abstract algebra.
